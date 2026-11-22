@@ -1,0 +1,15 @@
+{
+  "name": "makhazen-activation-api",
+  "version": "1.0.0",
+  "description": "Activation API for Makhaen Rust app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/kv": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
